@@ -4,9 +4,9 @@ demonstração básica de um serviço de Producer e Consumer com Apache Kafka, C
 
 ## Pré-requisitos
 
--.Net 5.0
--Docker
--Offset Explorer
+<br>-.Net 5.0</br>
+<br>-Docker</br>
+<br>-Offset Explorer</br>
 
 ## Configuração do Offset Explorer
 bootstrap servers = localhost:9092
